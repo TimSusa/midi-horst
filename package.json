@@ -56,8 +56,8 @@
   },
   "main": "./app/main.prod.js",
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.develar.ElectronReact",
+    "productName": "MIDI-Horst",
+    "appId": "org.develar.MIDI-Horst",
     "files": [
       "app/dist/",
       "app/app.html",
@@ -111,7 +111,7 @@
   },
   "author": {
     "name": "midi-horst Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
+    "email": "MIDI-Horstboilerplate@gmail.com",
     "url": "https://midi-horst.js.org"
   },
   "contributors": [
